@@ -1,3 +1,7 @@
+"""
+Inspired by markjay4k 
+"""
+
 import matplotlib
 matplotlib.use('TkAgg')
 
